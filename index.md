@@ -2,7 +2,7 @@
 
 *I have now grown more powerful than imagined*
 
-#World Domination Plan
+# World Domination Plan
 - [ ] Pass CSHU 250
 - [ ] Obtain Computer Science BA
 - [ ] Code Robot Army
